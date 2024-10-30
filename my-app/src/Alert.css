@@ -1,0 +1,7 @@
+alert{
+    background-color: gray;
+    border-radius: 10px;
+    position: absolute;
+    height: 250px;
+    width: 500px;
+}
